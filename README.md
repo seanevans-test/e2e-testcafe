@@ -1,1 +1,1 @@
-# e2e-testcafe
+# E2E Testcafe
